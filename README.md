@@ -38,3 +38,6 @@ week3-task3/
 ├── css/
 │   └── styles.css
 └── README.md
+## Screenshot
+
+![Task Management App](assets/screenshots/task-management-app.png)
