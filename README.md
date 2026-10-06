@@ -41,3 +41,6 @@ week3-task3/
 ## Screenshot
 
 ![Task Management App](assets/screenshots/task-management-app.png)
+## Author
+
+Shreya
