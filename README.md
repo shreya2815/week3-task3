@@ -37,10 +37,14 @@ week3-task3/
 ├── script.js
 ├── css/
 │   └── styles.css
+├── assets/
+│   └── screenshots/
+│       └── task-management-app.png
 └── README.md
-## Screenshot
+```
 
-![Task Management App](assets/screenshots/task-management-app.png)
+## Screenshot
+![Task Management App](asset/screenshots/task-management-app.png)
 ## Author
 
 Shreya
